@@ -1,2 +1,4 @@
 pynacl
 requests
+configparser
+boto3
