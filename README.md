@@ -1,2 +1,2 @@
-# FactorioServerLambda
-Lambda code to listen to discord commands to manage my server EC2 instance
+# Tarvis
+Lambda code to listen to discord slash commands to manage a EC2 instance with Factorio Server on it.
